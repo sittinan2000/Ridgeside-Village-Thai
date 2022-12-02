@@ -14,7 +14,7 @@
 	"Speed": 1,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 200,
+    "Duration": 200
 	},
   "Price": 40,
   "IsColored": false,
@@ -22,37 +22,15 @@
   "GiftTastes":
   {
   "Love": ["Keahi", "Pika"],
-  "Like": ["Maddie", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"],
+  "Like": ["Maddie", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy", "Wizard","Abigail", "Haley", "Sam", "Sebastian", "Vincent"]
   },
 
       "NameLocalization":
     {
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ริดจ์ไวล์ดแอปเปิล"
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "แอปเปิ้ลชนิดหนึ่งที่มีหนามสีแดงเล็กๆ ตามผิวหนัง มีรสชาติเหมือนกับสับปะรด ความแตกต่างที่สำคัญคือมีให้กินน้อยกว่าเล็กน้อย"
     }
 }

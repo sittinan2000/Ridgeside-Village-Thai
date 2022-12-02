@@ -8,6 +8,15 @@
   "GiftTastes":
   {
   "Love": ["Richard", "Ysabelle", "Pierre"],
-  "Like": ["Sebastian", "Demetrius", "Lewis"],
+  "Like": ["Sebastian", "Demetrius", "Lewis"]
   },
+  "NameLocalization":
+{
+  "th": "ทรอปิแองเกิลฟรุ๊ต"
+},
+  "DescriptionLocalization":
+  {
+    "th": "อย่าถูกหลอกด้วยชื่อ นี่คือผลไม้ที่สวยงามและอร่อย ซึ่งมีรสหวานและฝาดพร้อมกับความแหลมคม คุ้มค่าที่จะลอง! มันไม่สวยงามเหรอ?"
+  }
+
 }

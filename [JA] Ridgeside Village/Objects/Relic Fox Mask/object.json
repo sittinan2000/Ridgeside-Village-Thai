@@ -4,33 +4,11 @@
 	"Description": "An ancient mask that resembles a fox. There's a text written around the rim of the eye hole; 'Rough Seas'",
 	
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+      "th": "หน้ากากจิ้งจอกโบราณ"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "หน้ากากโบราณที่มีรูปร่างคล้ายสุนัขจิ้งจอก มีข้อความเขียนรอบขอบตา 'ทะเลขรุขระ'"
     }
 }

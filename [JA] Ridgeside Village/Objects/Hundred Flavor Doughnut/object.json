@@ -15,13 +15,13 @@
 	"Speed": 1,
 	"Defense": 1,
 	"Attack": 1,
-    "Duration": 300,
+    "Duration": 300
 	},
 	"Price": 500,
 	"IsColored": false,
 	"GiftTastes":
 	{
-		"Love": ["Bliss", "Keahi", "Yuuma", "Trinnie", "Jas", "Vincent"],
+		"Love": ["Bliss", "Keahi", "Yuuma", "Trinnie", "Jas", "Vincent"]
 	},
     "Recipe":
     {
@@ -29,60 +29,38 @@
         "Ingredients": [
         {
             "Object": 400,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 246,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 258,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 188,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Spiritual Essence",
-            "Count": 5,
+            "Count": 5
         },
         {
             "Object": 454,
-            "Count": 5,
-        },
+            "Count": 5
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+        "th": "โดนัทร้อยรส"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+        "th": "โรยแต่ละรสชาติแตกต่างกัน!"
     }
 }

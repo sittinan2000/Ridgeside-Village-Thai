@@ -8,6 +8,14 @@
   "GiftTastes":
   {
   "Love": ["Lola", "Daia", "Jio"],
-  "Like": ["Corine", "Abigail", "Flor"],
+  "Like": ["Corine", "Abigail", "Flor"]
   },
+  "NameLocalization":
+  {
+    "th": "มะนาวเอมเบอร์บลัดไลม์"
+  },
+  "DescriptionLocalization":
+  {
+    "th": "ผลไม้ที่ค่อนข้างเป็นกรดซึ่งเป็นลูกผสมระหว่างส้มแมนดารินและมะนาวซึ่งเหมาะสำหรับทำซอส"
+  }
 }

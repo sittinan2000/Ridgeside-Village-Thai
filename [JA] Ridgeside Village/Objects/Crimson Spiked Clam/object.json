@@ -14,33 +14,11 @@
 	},
 
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+        "th": "คิมสันสไปค์แคลม"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    	"th": "หอยกาบที่ใกล้สูญพันธุ์ ปกคลุมด้วยหนามแหลมสีแดง เรียกราคาสูงอย่างมากเนื่องจากไข่มุกที่เหมือนทับทิมที่สร้างขึ้น"
     }
 }

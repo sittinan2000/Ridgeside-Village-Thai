@@ -3,3 +3,14 @@ Last update with RSV 2.2.3 Hotfix 1
 translate version - 0.0.0.0
 ------------------------------------------------------
 - add th.json for base files
+
+translate version - 0.0.1.0
+------------------------------------------------------
+- "[CC] Ridgeside Village" Translated 100%
+- "[JA] Ridgeside Village" translated 83%
+    - "Boots" 100%
+    - "FruitTrees" 100%
+    - "Hats" 100%
+    - "Objects" 100%
+    - "Shirt" 100%
+    - "Weapon" 0%

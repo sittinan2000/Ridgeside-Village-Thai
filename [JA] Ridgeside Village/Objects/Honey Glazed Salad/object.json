@@ -15,13 +15,13 @@
 	"Speed": 0,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 300,
+    "Duration": 300
 	},
 	"Price": 300,
 	"IsColored": false,
 	"GiftTastes":
 	{
-		"Love": ["Pika", "Alissa"],
+		"Love": ["Pika", "Alissa"]
 	},
     "Recipe":
     {
@@ -29,52 +29,30 @@
         "Ingredients": [
         {
             "Object": 340,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 266,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Highland Chard",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Ridge Cherry",
-            "Count": 1,
-        },
+            "Count": 1
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "สลัดเคลือบน้ำผึ้ง"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "สลัดสูตรพิเศษของพิก้า ราดด้วยน้ำผึ้งโฮมเมด หวานสุดๆ!"
     }
 }

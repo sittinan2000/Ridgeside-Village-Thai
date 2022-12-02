@@ -9,6 +9,14 @@
   "GiftTastes":
   {
   "Love": ["Penny", "Lunna", "Haley", "Abigail", "Maru", "Sebastian", "Krobus", "Bianka", "Wizard", "Aguar", "Daia", "Bliss"],
-  "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy","Lewis","Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent"],
-  },
+  "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Jodi", "Kent", "Krobus", "Leah", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sandy", "Shane", "Willy","Lewis","Abigail", "Haley", "Jas", "Sam", "Sebastian", "Vincent"]
+  },"NameLocalization":
+
+{
+  "th": "เมาน์เทนมิสบลูม"
+},
+  "DescriptionLocalization":
+  {
+    "th": "ดอกไม้เรืองแสงลึกลับที่บานในวันที่ฝนตกในป่าทึบบนภูเขา มันไม่ส่งกลิ่นใด ๆ เลย"
+  }
 }

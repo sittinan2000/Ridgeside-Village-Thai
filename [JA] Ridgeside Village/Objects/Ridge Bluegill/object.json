@@ -9,37 +9,15 @@
 	"IsColored": false,
 	"GiftTastes":
 	{
-		"Love": ["Willy"],
+		"Love": ["Willy"]
 	},
 
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+		"th": "ริดจ์ บลูกิลล์"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+		"th": "มันเข้ากันได้ดีกับน้ำในแม่น้ำ! อย่าคลาดสายตาเป็นอันขาด!"
     }
 }

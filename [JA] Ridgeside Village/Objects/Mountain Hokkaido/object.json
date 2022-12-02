@@ -14,7 +14,7 @@
 	"Speed": 0,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 200,
+    "Duration": 200
 	},
   "Price": 60,
   "IsColored": false,
@@ -22,37 +22,15 @@
   "GiftTastes":
   {
   "Love": ["Trinnie", "Maddie", "Daia", "Ysabelle", "Jeric", "Kenneth"],
-  "Like": ["Jas", "Lola", "Freddie", "Olga"],
+  "Like": ["Jas", "Lola", "Freddie", "Olga"]
   },
 
       "NameLocalization":
     {
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "เมาน์เทนฮอกไกโด"
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "มีความสวยงามที่เข้ากับสายลมแห่งขุนเขาได้เป็นอย่างดี"
     }
 }

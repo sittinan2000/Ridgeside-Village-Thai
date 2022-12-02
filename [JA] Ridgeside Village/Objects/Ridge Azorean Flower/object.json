@@ -14,7 +14,7 @@
 	"Speed": 0,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 200,
+    "Duration": 200
 	},
   "Price": 50,
   "IsColored": false,
@@ -22,37 +22,15 @@
   "GiftTastes":
   {
   "Love": ["Trinnie", "Alissa", "Paula", "Anton", "Lorenzo"],
-  "Like": ["Jas", "Maive"],
+  "Like": ["Jas", "Maive"]
   },
 
       "NameLocalization":
     {
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ดอกริดจ์อาซอเรียน"
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ฤดูใบไม้ผลิมีกลิ่นที่น่ารักมากขึ้นเพราะดอกไม้นี้"
     }
 }

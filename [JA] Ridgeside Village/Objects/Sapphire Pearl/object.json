@@ -4,33 +4,11 @@
 	"Description": "An ancient relic of the ridge. It's a unique amalgamation of a sapphire gem and a pearl.",
 	
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+      "th": "ไข่มุกแซฟไฟร์"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "โบราณวัตถุของสันเขา เป็นการผสมผสานที่ไม่เหมือนใครของอัญมณีแซฟไฟร์และไข่มุก"
     }
 }

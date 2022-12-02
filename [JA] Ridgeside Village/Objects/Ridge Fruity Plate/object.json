@@ -15,13 +15,13 @@
 	"Speed": 1,
 	"Defense": 1,
 	"Attack": 0,
-    "Duration": 300,
+    "Duration": 300
 	},
 	"Price": 370,
 	"IsColored": false,
 	"GiftTastes":
 	{
-		"Love": ["Maddie", "Flor"],
+		"Love": ["Maddie", "Flor"]
 	},
     "Recipe":
     {
@@ -29,52 +29,30 @@
         "Ingredients": [
         {
             "Object": "Autumn Drop Berry",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Ridge Wild Apple",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Frost Clump Berry",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Highland Chard",
-            "Count": 1,
-        },
+            "Count": 1
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ริดจ์ฟรุตตี้เพลท"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "สลัดผลไม้ที่เต็มไปด้วยผลไม้จากภูเขาราดด้วยน้ำสลัดสูตรพิเศษ!"
     }
 }

@@ -4,33 +4,11 @@
 	"Description": "The dragon-like skull print in the fossil seems to be outlined by some sort of permanent ink. What's odd is the ink seems fresh for something ancient.",
 	
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+      "th": "อิ้งค์ฟอสซิล"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "รอยหัวกะโหลกคล้ายมังกรในซากดึกดำบรรพ์ดูเหมือนจะถูกร่างด้วยหมึกถาวรบางชนิด สิ่งที่แปลกคือหมึกดูเหมือนสดสำหรับของโบราณ"
     }
 }

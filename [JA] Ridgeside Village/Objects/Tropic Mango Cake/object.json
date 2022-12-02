@@ -15,7 +15,7 @@
 	"Speed": 1,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 300,
+    "Duration": 300
 	},
 	"Price": 380,
 	"IsColored": false,
@@ -30,52 +30,30 @@
         "Ingredients": [
         {
             "Object": 246,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": -5,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 834,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Tropi Ugli Fruit",
-            "Count": 1,
+            "Count": 1
         }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "เค้กมะม่วงทรอปิค"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "เค้กนี้ทำมาจากมะม่วงเพราะใช้มะม่วงเป็นหลัก!"
     }
 }

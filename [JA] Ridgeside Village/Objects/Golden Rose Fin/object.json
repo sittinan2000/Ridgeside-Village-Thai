@@ -9,37 +9,15 @@
 	"IsColored": false,
 	"GiftTastes":
 	{
-		"Love": ["Ysabelle"],
+		"Love": ["Ysabelle"]
 	},
 
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+		"th": "โกลเด้นโรสต์ฟิน"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+		"th": "ปลาตัวเล็กที่มีครีบกว้างแต่บาง ขณะที่มันว่ายน้ำ การเคลื่อนไหวของครีบอันเป็นเอกลักษณ์เหล่านี้ทำให้ดูเหมือนการเต้นรำขณะที่มันหมุนและเคลื่อนตัวข้ามผืนน้ำ"
     }
 }

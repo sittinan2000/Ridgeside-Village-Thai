@@ -18,40 +18,18 @@
         "Ingredients": [
         {
             "Object": "Ridge Wild Apple",
-            "Count": 2,
-        },
+            "Count": 2
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
-    { 
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+      "th": "น้ำแอปเปิ้ลป่า"
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ทำให้คุณเป็น Apple-ly!"
     }
 }

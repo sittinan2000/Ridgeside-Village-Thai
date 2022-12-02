@@ -8,32 +8,10 @@
   "SaplingPurchaseFrom": "null",
   "SaplingNameLocalization":
   {
-    //remove the "//" from your language
-      //"es": "PLACEHOLDER",
-      //"ko": "PLACEHOLDER",
-      //"de": "PLACEHOLDER",
-      //"fr": "PLACEHOLDER",
-      //"hu": "PLACEHOLDER",
-      //"it": "PLACEHOLDER",
-      //"ja": "PLACEHOLDER",
-      //"pt": "PLACEHOLDER",
-      //"ru": "PLACEHOLDER",
-      //"tr": "PLACEHOLDER",
-      //"zh": "PLACEHOLDER",
+        "th": "ต้นอ่อนมะนาวเลือดเอมเบอร์"
   },
   "SaplingDescriptionLocalization":
   {
-    //remove the "//" from your language
-      //"es": "PLACEHOLDER",
-      //"ko": "PLACEHOLDER",
-      //"de": "PLACEHOLDER",
-      //"fr": "PLACEHOLDER",
-      //"hu": "PLACEHOLDER",
-      //"it": "PLACEHOLDER",
-      //"ja": "PLACEHOLDER",
-      //"pt": "PLACEHOLDER",
-      //"ru": "PLACEHOLDER",
-      //"tr": "PLACEHOLDER",
-      //"zh": "PLACEHOLDER",
+        "th": "ใช้เวลา 28 วันในการสร้างตต้นมะนาวเลือดเอมเบอร์ที่โตเต็มที่ พร้อมเก็บเกี่ยวในฤดูใบไม้ร่วง จะเติบโตก็ต่อเมื่อกระเบื้องรอบ ๆ 8 แผ่นว่างเปล่า"
   }
 }

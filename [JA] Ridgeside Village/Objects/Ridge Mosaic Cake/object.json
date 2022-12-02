@@ -15,7 +15,7 @@
 	"Speed": 0,
 	"Defense": 1,
 	"Attack": 0,
-    "Duration": 300,
+    "Duration": 300
 	},
 	"Price": 150,
 	"IsColored": false,
@@ -30,48 +30,26 @@
         "Ingredients": [
         {
             "Object": 245,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 246,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": -5,
-            "Count": 1,
+            "Count": 1
         }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+      "th": "ริดจ์โมเสกเค้ก"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ขนมหวานที่ทำจากโกโก้และบิสกิต"
     }
 }

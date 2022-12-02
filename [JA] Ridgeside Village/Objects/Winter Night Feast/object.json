@@ -15,13 +15,13 @@
     "Speed": 0,
     "Defense": 0,
     "Attack": 2,
-    "Duration": 600,
+    "Duration": 600
     },
     "Price": 500,
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Shanice", "Jeric", "Shiro", "Pika", "Keahi", "Blair", "Freddie", "Louie", "Irene"],
+        "Love": ["Shanice", "Jeric", "Shiro", "Pika", "Keahi", "Blair", "Freddie", "Louie", "Irene"]
     },
     "Recipe":
     {
@@ -29,52 +29,30 @@
         "Ingredients": [
         {
             "Object": "Cardia Septal Jellyfish",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Mountain Whitefish",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Sierra Wintergreen",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Frost Clump Berry",
-            "Count": 1,
+            "Count": 1
         }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
     {
-        //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+        "th": "งานเลี้ยงคืนฤดูหนาว"
     },
     "DescriptionLocalization":
     {
-        //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+        "th": "ฤดูหนาวพิเศษของ Pika ทานที่หมั่นให้หรือว่าอย่างนั้น.(?)"
     }
 }

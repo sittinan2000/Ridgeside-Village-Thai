@@ -30,48 +30,26 @@
         "Ingredients": [
         {
             "Object": "Ridgeside Clementine",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Frost Clump Berry",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 414,
-            "Count": 2,
-        },
+            "Count": 2
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
-    { 
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+      "th": "สโนว์บอล สเลอปี้"
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ผสมผสานผลไม้เมืองหนาวนานาชนิด ของฤดูหนาวที่เย็นและหวาน"
     }
 }

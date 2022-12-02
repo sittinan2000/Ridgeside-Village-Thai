@@ -15,13 +15,13 @@
 	"Speed": 0,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 600,
+    "Duration": 600
 	},
 	"Price": 500,
 	"IsColored": false,
 	"GiftTastes":
 	{
-		"Love": ["Richard", "Ian", "Maddie", "Corine", "Yuuma", "Lorenzo", "Carmen", "Ariah", "Kimpoi", "Paula"],
+		"Love": ["Richard", "Ian", "Maddie", "Corine", "Yuuma", "Lorenzo", "Carmen", "Ariah", "Kimpoi", "Paula"]
 	},
     "Recipe":
     {
@@ -29,52 +29,30 @@
         "Ingredients": [
         {
             "Object": "Fixer Eel",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Northern Limequat",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Highland Jostaberry",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Lava Lily",
-            "Count": 1,
+            "Count": 1
         }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+        "th": "ออทั่มเซเรนิตี้"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+        "th": "อาหารพิเศษในฤดูใบไม้ร่วงของปิก้า ทุกคำที่กัด คุณจะ 'ตกหลุมรัก (เล่นคำ fall)'"
     }
 }

@@ -8,6 +8,14 @@
   "GiftTastes":
   {
   "Love": ["Zayne", "Paula", "Kiarra"],
-  "Like": ["Faye", "Bryle", "Sean"],
+  "Like": ["Faye", "Bryle", "Sean"]
   },
+  "NameLocalization":
+  {
+    "th": "แทงเกโลทะเลทราย"
+  },
+  "DescriptionLocalization":
+  {
+    "th": "ส้มเขียวหวานลูกผสมไร้เมล็ดและเกรปฟรุตที่ดูเหมือนโดนแดดเผาในทะเลทราย"
+  }
 }

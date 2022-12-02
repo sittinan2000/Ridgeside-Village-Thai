@@ -8,6 +8,13 @@
   "GiftTastes":
   {
   "Love": ["Pika", "Maddie", "Leah"],
-  "Like": ["Sam", "Caroline", "Bert"],
-  },
+  "Like": ["Sam", "Caroline", "Bert"]
+  },"NameLocalization":
+{
+  "th": "ไนท์แบล็คไดมอนด์"
+},
+  "DescriptionLocalization":
+  {
+    "th": "เพชรขอบคมที่มีโทนสีดำ ฐานแทบจะไม่สะท้อนแสงเลย ดังนั้นอย่าทำหายไปในความมืด"
+  }
 }

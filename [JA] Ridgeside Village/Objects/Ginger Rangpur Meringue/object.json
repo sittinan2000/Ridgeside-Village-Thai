@@ -15,13 +15,13 @@
 	"Speed": 0,
 	"Defense": 1,
 	"Attack": 0,
-    "Duration": 300,
+    "Duration": 300
 	},
 	"Price": 400,
 	"IsColored": false,
 	"GiftTastes":
 	{
-		"Love": ["Malaya", "Sonny", "Flor", "Blair", "Naomi", "Maive"],
+		"Love": ["Malaya", "Sonny", "Flor", "Blair", "Naomi", "Maive"]
 	},
     "Recipe":
     {
@@ -29,52 +29,30 @@
         "Ingredients": [
         {
             "Object": "Paradise Rangpur",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 245,
-            "Count": 3,
+            "Count": 3
         },
         {
             "Object": 829,
-            "Count": 1,
-        },
+            "Count": 1
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
     "ContextTags":
     [
-    "ginger_item",
+    "ginger_item"
     ],
 
     "NameLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+        "th": "จิงเจอร์รังปูร์ เมอแรงค์"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ของหวานที่ผสมผสานความจัดจ้านของขิงและรังปูร์เข้ากับความบางเบาของเมอแรงค์ แม้จะอุดมสมบูรณ์ แต่ก็ดีต่อการย่อยอาหาร"
     }
 }

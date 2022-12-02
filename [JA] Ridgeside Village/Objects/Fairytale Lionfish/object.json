@@ -9,37 +9,15 @@
 	"IsColored": false,
 	"GiftTastes":
 	{
-		"Love": ["Maddie"],
+		"Love": ["Maddie"]
 	},
 
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+		"th": "แฟรี่เทล ไลอ้อนฟืช"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+		"th": "ปลาสิงโตสายพันธุ์หายาก สีสันสดใสใช้เป็นลายพราง ซ่อนตัวอยู่ในแนวปะการังในทะเลอัญมณี มีข่าวลือว่าปลาเหล่านี้ใช้เป็นส่วนผสมของยารักโบราณ"
     }
 }

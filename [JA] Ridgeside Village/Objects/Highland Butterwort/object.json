@@ -14,7 +14,7 @@
 	"Speed": 1,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 200,
+    "Duration": 200
 	},
   "Price": 40,
   "IsColored": false,
@@ -22,37 +22,15 @@
   "GiftTastes":
   {
   "Love": ["Trinnie", "Keahi", "Yuuma", "Louie", "Vincent", "Jas", "Blair", "Sean", "Lenny"],
-  "Like": ["Aguar"],
+  "Like": ["Aguar"]
   },
 
       "NameLocalization":
     {
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ไฮแลนด์บัตเตอร์เวิร์ต"
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "เด็ก ๆ ชอบที่จะใช้สิ่งนี้ในเกมท้องถิ่น!"
     }
 }

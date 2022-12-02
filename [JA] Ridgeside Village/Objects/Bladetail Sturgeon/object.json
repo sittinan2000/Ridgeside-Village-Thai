@@ -9,37 +9,15 @@
 	"IsColored": false,
 	"GiftTastes":
 	{
-		"Love": ["Corine"],
+		"Love": ["Corine"]
 	},
 
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+        "th": "ปลาสเตอร์เจียนหางดาบ"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+        "th": "ปลาที่อันตรายมาก มีหางที่คมราวกับใบมีด การทำประมงมากเกินไปทำให้ประชากรสายพันธุ์นี้ลดน้อยลง หางของมันอาจทำหน้าที่เป็นหัวลูกศรในสมัยโบราณ."
     }
 }

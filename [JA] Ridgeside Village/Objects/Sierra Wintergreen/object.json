@@ -14,7 +14,7 @@
 	"Speed": 0,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 200,
+    "Duration": 200
 	},
   "Price": 40,
   "IsColored": false,
@@ -22,37 +22,15 @@
   "GiftTastes":
   {
   "Love": ["Trinnie", "Lenny", "Freddie", "Naomi", "Lola", "Richard", "Bliss", "Olga", "Bert", "Malaya", "Kimpoi"],
-  "Like": ["Jas", "Marnie", "Robin"],
+  "Like": ["Jas", "Marnie", "Robin"]
   },
 
       "NameLocalization":
     {
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "เซียร่า วินเทอร์กรีน"
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ดอกไม้น่ารักสำหรับเป็นของขวัญและตกแต่งในช่วงวันหยุดฤดูหนาว"
     }
 }

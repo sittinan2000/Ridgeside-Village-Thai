@@ -8,32 +8,10 @@
   "SaplingPurchaseFrom": "null",
   "SaplingNameLocalization":
   {
-    //remove the "//" from your language
-      //"es": "PLACEHOLDER",
-      //"ko": "PLACEHOLDER",
-      //"de": "PLACEHOLDER",
-      //"fr": "PLACEHOLDER",
-      //"hu": "PLACEHOLDER",
-      //"it": "PLACEHOLDER",
-      //"ja": "PLACEHOLDER",
-      //"pt": "PLACEHOLDER",
-      //"ru": "PLACEHOLDER",
-      //"tr": "PLACEHOLDER",
-      //"zh": "PLACEHOLDER",
+        "th": "ทรอปิแองเกิลฟรุ๊ต"
   },
   "SaplingDescriptionLocalization":
   {
-    //remove the "//" from your language
-      //"es": "PLACEHOLDER",
-      //"ko": "PLACEHOLDER",
-      //"de": "PLACEHOLDER",
-      //"fr": "PLACEHOLDER",
-      //"hu": "PLACEHOLDER",
-      //"it": "PLACEHOLDER",
-      //"ja": "PLACEHOLDER",
-      //"pt": "PLACEHOLDER",
-      //"ru": "PLACEHOLDER",
-      //"tr": "PLACEHOLDER",
-      //"zh": "PLACEHOLDER",
+        "th": "ใช้เวลา 28 วันในการสร้างต้นทรอปิแองเกิลฟรุ๊ตที่โตเต็มที่ พร้อมเก็บเกี่ยวในฤดูร้อน จะเติบโตก็ต่อเมื่อกระเบื้องรอบ ๆ 8 แผ่นว่างเปล่า"
   }
 }

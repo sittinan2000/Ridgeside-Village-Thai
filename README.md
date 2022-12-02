@@ -1,0 +1,16 @@
+------------------------------------------------------
+            Folder               Status
+------------------------------------------------------
+- "[CC] Ridgeside Village"  - Translated (MT)
+- "[CP] Ridgeside Village"  - Not translated yet
+    - "Data"                - Not translated yet
+    - "i18n"                - Not translated yet
+- "[JA] Ridgeside Village"  - Not full translated
+    - "Boots"               - Translated (MT)
+    - "FruitTrees"          - Translated (MT)
+    - "Hats"                - Translated (MT)
+    - "Objects"             - Translated (MT)
+    - "Shirt"               - Translated (MT)
+    - "Weapon"              - Not translated yet
+- "[STF] Ridgeside Village" - Not translated yet
+- "RidgesideVillage"        - Not translated yet

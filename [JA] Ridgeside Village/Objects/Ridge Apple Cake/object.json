@@ -15,7 +15,7 @@
 	"Speed": 0,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 300,
+    "Duration": 300
 	},
 	"Price": 410,
 	"IsColored": false,
@@ -31,56 +31,34 @@
         "Ingredients": [
         {
             "Object": 246,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 245,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 613,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": -5,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Ridge Wild Apple",
-            "Count": 3,
-        },
+            "Count": 3
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+      "th": "เค้กริดจ์แอปเปิ้ล"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "หวานและอุ่นใจถึงแก่น!"
     }
 }

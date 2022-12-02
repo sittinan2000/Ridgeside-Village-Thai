@@ -15,7 +15,7 @@
 	"Speed": 1,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 300,
+    "Duration": 300
 	},
 	"Price": 420,
 	"IsColored": false,
@@ -30,56 +30,34 @@
         "Ingredients": [
         {
             "Object": 245,
-            "Count": 3,
+            "Count": 3
         },
         {
             "Object": 438,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 340,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Desert Tangelo",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Ember Blood Lime",
-            "Count": 1,
-        },
+            "Count": 1
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "เคดิ ดีไลท์"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ขนมหวานที่ทำจากแป้งและน้ำตาล มักมีรสชาติเฉพาะตัว"
     }
 }

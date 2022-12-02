@@ -30,44 +30,22 @@
         "Ingredients": [
         {
             "Object": 186,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Mountain Chico",
-            "Count": 1,
-        },
+            "Count": 1
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
-    { 
-      //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+      "th": "ไฮแลนด์ไอศครีม"
     },
     "DescriptionLocalization":
     {
-      //remove the "//" from your language      
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "ไอศกรีมพิเศษที่ผลิตในหมู่บ้านริดจ์ไซด์ การรักษาที่ดีที่สุดในขณะที่ชื่นชมวิวภูเขา"
     }
 }

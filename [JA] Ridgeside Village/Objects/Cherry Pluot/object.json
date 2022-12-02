@@ -8,6 +8,14 @@
   "GiftTastes":
   {
   "Love": ["Blair", "Alissa", "Jeric", "Ariah"],
-  "Like": ["Sam", "Sebastian", "Vincent"],
+  "Like": ["Sam", "Sebastian", "Vincent"]
   },
+  "NameLocalization":
+  {
+    "th": "เชอรี่พลูโต"
+  },
+  "DescriptionLocalization":
+  {
+    "th": "ส่วนผสมที่หอมหวานของลูกพลัมและแอปริคอตผสมกับเชอร์รี่สายพันธุ์ต่างประเทศ"
+  }
 }

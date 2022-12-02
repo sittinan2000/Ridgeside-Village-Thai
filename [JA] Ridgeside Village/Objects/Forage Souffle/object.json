@@ -15,7 +15,7 @@
 	"Speed": 0,
 	"Defense": 0,
 	"Attack": 0,
-    "Duration": 300,
+    "Duration": 300
 	},
 	"Price": 140,
 	"IsColored": false,
@@ -30,56 +30,34 @@
         "Ingredients": [
         {
             "Object": -5,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 416,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Ridge Cherry",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Ridgeside Clementine",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Autumn Drop Berry",
-            "Count": 1,
-        },
+            "Count": 1
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+      "th": "ฟอเลจก์ซูเฟล่"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "อยู่เงียบๆและไม่มีใครจะโดนระเบิด"
     }
 }

@@ -8,6 +8,14 @@
   "GiftTastes":
   {
   "Love": ["Irene", "Philip", "Harvey", "Ariah"],
-  "Like": ["Maru", "Bliss", "George"],
+  "Like": ["Maru", "Bliss", "George"]
   },
+  "NameLocalization":
+  {
+    "th": "ไฮแลนด์โจสตาเบอร์รี่"
+  },
+  "DescriptionLocalization":
+  {
+    "th": "ลองนึกภาพผลมะยมและลูกเกดดำหลอมรวมเป็นหนึ่งเดียว สายพันธุ์นี้ได้พัฒนาไปสู่การปลูกบนต้นไม้และพบได้ทั่วไปในทวีปที่มีอากาศหนาวเย็น"
+  }
 }

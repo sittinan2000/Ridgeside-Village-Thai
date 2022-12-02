@@ -15,7 +15,7 @@
 	"Speed": 0,
 	"Defense": 0,
 	"Attack": 1,
-    "Duration": 300,
+    "Duration": 300
 	},
 	"Price": 300,
 	"IsColored": false,
@@ -30,52 +30,30 @@
         "Ingredients": [
         {
             "Object": 246,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": 245,
-            "Count": 5,
+            "Count": 5
         },
         {
             "Object": 400,
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Highland Jostaberry",
-            "Count": 1,
-        },
+            "Count": 1
+        }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
-    { 
-    	//remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+    {
+      "th": "พิ้งค์ ฟรอสเตท สปริงเคิล โดนัท"
     },
     "DescriptionLocalization":
     {
-    	//remove the "//" from your language    	
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+      "th": "นี่จะต้องเป็นสิ่งที่ทำมาจากสายรุ้ง."
     }
 }

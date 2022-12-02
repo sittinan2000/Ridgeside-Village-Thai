@@ -8,6 +8,14 @@
   "GiftTastes":
   {
   "Love": ["Kenneth", "Ariah", "Jodi"],
-  "Like": ["Flor", "Trinnie", "Gus"],
+  "Like": ["Flor", "Trinnie", "Gus"]
   },
+  "NameLocalization":
+{
+  "th": "เมาน์เทนพลัมคอต"
+},
+  "DescriptionLocalization":
+  {
+    "th": "การผสมผสานอย่างลงตัวของพลัมและแอปริคอตที่พบได้ในภูเขาของทวีปตะวันออกเท่านั้น บ้างก็ว่าเป็นผลไม้หิน"
+  }
 }

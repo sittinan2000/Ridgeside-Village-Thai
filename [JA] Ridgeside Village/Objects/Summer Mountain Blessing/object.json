@@ -15,13 +15,13 @@
     "Speed": 0,
     "Defense": 0,
     "Attack": 0,
-    "Duration": 600,
+    "Duration": 600
     },
     "Price": 500,
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Flor", "Kenneth", "Lenny", "Kiarra", "Faye", "Lola", "Aguar", "Malaya", "Olga"],
+        "Love": ["Flor", "Kenneth", "Lenny", "Kiarra", "Faye", "Lola", "Aguar", "Malaya", "Olga"]
     },
     "Recipe":
     {
@@ -29,52 +29,30 @@
         "Ingredients": [
         {
             "Object": "Bladetail Sturgeon",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Paradise Rangpur",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Tropi Ugli Fruit",
-            "Count": 1,
+            "Count": 1
         },
         {
             "Object": "Mountain Chico",
-            "Count": 1,
+            "Count": 1
         }
         ],
-        "CanPurchase": false,
+        "CanPurchase": false
     },
 
     "NameLocalization":
     {
-        //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+        "th": "ซัมเมอร์เมาเท่นเบลสซิ่ง"
     },
     "DescriptionLocalization":
     {
-        //remove the "//" from your language
-        //"es": "PLACEHOLDER",
-        //"ko": "PLACEHOLDER",
-        //"de": "PLACEHOLDER",
-        //"fr": "PLACEHOLDER",
-        //"hu": "PLACEHOLDER",
-        //"it": "PLACEHOLDER",
-        //"ja": "PLACEHOLDER",
-        //"pt": "PLACEHOLDER",
-        //"ru": "PLACEHOLDER",
-        //"tr": "PLACEHOLDER",
-        //"zh": "PLACEHOLDER",
+        "th": "ฤดูร้อนพิเศษของ Pika จานที่ทำให้คุณอุ่นขึ้น ในทางที่ดี!"
     }
 }
